@@ -10,6 +10,9 @@
 - [X] Extremely Fast
 - [X] User Friendly
 
+## Demo
+![presi-demo](https://user-images.githubusercontent.com/19171147/64224476-b26e2780-cea5-11e9-854c-ac8d522c68f6.gif)
+
 
 ## Installation 
 The simplest method is to use the hosted version from jsDelivr:
