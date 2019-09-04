@@ -1,8 +1,7 @@
-# Presi
-
+![github](https://user-images.githubusercontent.com/19171147/64223960-c0bb4400-cea3-11e9-876a-bbaf2e09267d.png)
 
 ## Description 
- 
+ Presi is an Elegant and Minimal Photo Presenter 
 
 ## Features
 - [X] Vanilla JS 🍦
