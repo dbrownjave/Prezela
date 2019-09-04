@@ -11,7 +11,7 @@
 - [X] User Friendly
 
 ## Demo
-![presi-demo](https://user-images.githubusercontent.com/19171147/64224476-b26e2780-cea5-11e9-854c-ac8d522c68f6.gif)
+![presi-demo](https://user-images.githubusercontent.com/19171147/64224655-5bb51d80-cea6-11e9-9e2e-c0e9eabd7518.gif)
 
 
 ## Installation 
